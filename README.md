@@ -1,6 +1,6 @@
 # Blog-App
 
-Starting project for a course on Advanced Node @ Udemy
+A blog app made using MERN and used Oauth for authentication.
 
 ### Setup
 
